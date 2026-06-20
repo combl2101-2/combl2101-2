@@ -1,7 +1,4 @@
 [![My Skills](https://skillicons.dev/icons?i=js,lua,python,cs)](https://skillicons.dev)
-
-[![Anurag's GitHub stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=combl2101-2&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **combl2101-2/combl2101-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
